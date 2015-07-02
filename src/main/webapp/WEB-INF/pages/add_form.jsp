@@ -3,7 +3,7 @@
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 <html>
 <head>
-    <title>Добавить контакт</title>
+    <title>Добавить отзыв</title>
     <!-- Bootstrap core CSS -->
     <link href='<c:url value="/resources/css/bootstrap.min.css" />' rel="stylesheet">
     <link href='<c:url value="/resources/css/mystyle.css" />' rel="stylesheet">
